@@ -20,13 +20,13 @@
 
 ## Introduction
 
-This project combines the analytical capabilities of Python and Power BI to explore over 100,000 orders from the Brazilian e-commerce marketplace Olist. By leveraging Python for data preprocessing and Power BI for visualization, the project provides a comprehensive view of marketplace performance, including customer behavior, delivery performance, and sales trends.
+This project combines the analytical capabilities of Python and Power BI to explore around 100,000 orders from the Brazilian e-commerce marketplace Olist. By leveraging Python for data preprocessing and Power BI for visualization, the project provides a comprehensive view of marketplace performance, including customer behavior, delivery performance, and sales trends.
 
 
 ## Project Objectives
 
 - Preprocess raw e-commerce data using Python.
-- Identify customer preferences, delivery bottlenecks, and product performance metrics.
+- Identify sales and delivery performance, regional differences, customer preferences and sales trends.
 - Derive actionable insights for improving marketplace strategies.
 - Visualize key trends and insights with Power BI.
 
