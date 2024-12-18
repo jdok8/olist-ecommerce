@@ -36,12 +36,12 @@ This project combines the analytical capabilities of Python and Power BI to expl
 ```
 brazilian-ecommerce-analysis/
 │
-├── assets/ 						# Images, GIFs, and other media
-├── datasets/ 						# Raw and cleaned datasets
-├── notebooks/                      # Jupyter notebook
-├── power_bi_report/ 				# Power BI report file 
-├── README.md                       # Project overview and instructions
-└── LICENSE                         # License information
+├── assets/                     # Images, GIFs, and other media
+├── datasets/                   # Raw and cleaned datasets
+├── notebooks/                  # Jupyter notebook
+├── power_bi_report/            # Power BI report file 
+├── README.md                   # Project overview and instructions
+└── LICENSE                     # License information
 ```
 
 
