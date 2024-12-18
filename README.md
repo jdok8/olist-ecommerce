@@ -1,7 +1,7 @@
 
 # Brazilian E-Commerce Analysis: Insights into Marketplace Trends with Python and Power BI
 
-![E-Commerce Report](assets/img/olist_ecommerce_teaser.gif)
+![E-Commerce Report](/assets/img/olist_e-commerce_teaser.gif)
 
 ## Table of Contents
 
